@@ -1,0 +1,22 @@
+.side-panel {
+  height: 100vh;
+  position: fixed;
+  overflow: scroll;
+  background-color: #4db6ac;
+  margin: 0;
+  padding: 0;
+}
+
+.side-panel a {
+  color: #fff;
+}
+
+.contact-box {
+  border-bottom: 1px solid #fff;
+  padding: 10px 0 0 0;
+  margin: 0;
+}
+
+.material-icons {
+  color: #fdd835;
+}
